@@ -45,7 +45,7 @@ top:130px;
 
 #mainpic
 {
-background-image:url(images/main.jpg);
+background-image:url(picture/main.jpg);
 background-repeat:no-repeat;
 width:900px;
 height:402px;	
@@ -64,7 +64,7 @@ color:#FF8C00
 
 #menu
 {
-background-image:url(images/menu.png);
+background-image:url(picture/menu.jpg);
 background-repeat:no-repeat;
 width:940px;
 height:69px;
